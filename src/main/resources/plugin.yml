@@ -1,0 +1,4 @@
+name: MelloohBlocks
+version: '${project.version}'
+main: it.mellooh.melloohblocks.MelloohBlocks
+api-version: '1.13'

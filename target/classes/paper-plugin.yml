@@ -1,0 +1,6 @@
+name: MelloohBlocks
+version: '1.0-SNAPSHOT'
+main: it.mellooh.melloohblocks.MelloohBlocks
+api-version: '1.13'
+
+loader: plugin
