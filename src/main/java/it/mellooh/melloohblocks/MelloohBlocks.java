@@ -49,7 +49,7 @@ public final class MelloohBlocks extends JavaPlugin {
         blockMaterial = Material.matchMaterial(config.getString("block", "DIAMOND_BLOCK"));
         slot = config.getInt("slot", 4);
         amount = config.getInt("amount", 64);
-        displayName = config.getString("display-name", "&bBlocchi Infiniti");
+        displayName = config.getString("display-name", "&bInfinite Blocks");
         lockMove = config.getBoolean("lock-move", true);
     }
 
