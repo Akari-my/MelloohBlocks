@@ -1,4 +1,4 @@
-# 🧱 LobbyInfiniteBlocks
+# 🧱 MelloohBlocks
 Gives players unlimited temporary blocks to place in the lobby. Perfect for creative hubs, interactive spawns, or just for fun building areas.
 
 # 📦 Installation
